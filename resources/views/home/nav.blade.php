@@ -21,3 +21,5 @@
   <button class="signup"><a href="{{ route('register') }}">Register</a></button>
   <button class="login"><a href="{{ route('login') }}">Login</a></button>
 </nav>    
+
+<!----responsive nav bar---->
