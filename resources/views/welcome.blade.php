@@ -6,7 +6,14 @@
     <title>Pagsanjan Integrated National Senior High School</title>
 </head>
 <body>
-<!---include the nav.blade.php file here--->
-@include('home.nav')
+<!---include nav.blade.php from home/nav.blade.php--->
+
+<section class="hero">
+    <!---landing page hero part--->
+</section>
+
+<section class="">
+    
+</section>
 </body>
 </html>
